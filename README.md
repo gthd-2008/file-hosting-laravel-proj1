@@ -5,12 +5,14 @@
 - OOP (improved my understanding of it)
 
 ## What are the flaws:
+- too ambitious of a project for a beginner in Software Development
 - monolithic codebase, no front-end and back-end separation
 - no tests, no meaningful logging, no metrics -> painful debugging
 - mostly vibe-coded codebase
 - non-deterministic commits, like "maybe a fix to an issue with {issueName}"
     
 ## What could have been done differently:
+- instead of trying to implement every single feature that users could possibly need I could have focused on building an MVP first
 - phase 1 of the project could have been an architecture design instead of "just go with the vibe"
 - a more lightweight framework could have been used
 - tests would help a lot
