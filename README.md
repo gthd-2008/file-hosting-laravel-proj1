@@ -8,7 +8,7 @@
 - monolithic codebase, no front-end and back-end separation
 - no tests, no meaningful logging, no metrics -> painful debugging
 - mostly vibe-coded codebase
-- non-deterministic commits, like "maybe a fix to an issue with "
+- non-deterministic commits, like "maybe a fix to an issue with {issueName}"
     
 ## What could have been done differently:
 - phase 1 of the project could have been an architecture design instead of "just go with the vibe"
