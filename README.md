@@ -1,8 +1,8 @@
 ## What I learned initially:
-- work with files
-- work with cookies
-- improved my understanding of OOP
-- learned to split JavaScript code into multiple files
+- how to work with files
+- how to work with cookies
+- how to split JavaScript code into multiple files
+- OOP (improved my understanding of it)
 
 ## What are the flaws:
 - monolithic codebase, no front-end and back-end separation
